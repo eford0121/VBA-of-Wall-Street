@@ -4,8 +4,6 @@ Dim Ticker_Name As String
 Dim Total_Volume As Double
 Dim Yearly_Change As Double
 Dim Percent_Change As Double
-Dim Greatest_Perc_Inc As Double
-Dim Greatest_Perc_Dec As Double
 Dim Greatest_Total_Volume As Double
 Dim Summary_Table_Row As Integer
 Dim opening_value, closing_value As Double
